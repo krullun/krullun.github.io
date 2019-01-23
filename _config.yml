@@ -16,16 +16,16 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "https://www.facebook.com/krullun"
-    - icon: fa-twitter
-      link: "https://twitter.com/krullun"
+    # - icon: fa-facebook
+    #   link: "https://www.facebook.com/krullun"
+    # - icon: fa-twitter
+    #   link: "https://twitter.com/krullun"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/krullun"
-    - icon: fa-goodreads
-      link: "https://www.goodreads.com/krullun"
     - icon: fa-github
       link: "https://github.com/krullun"
+    - icon: fa-goodreads
+      link: "https://www.goodreads.com/user/show/22189369-rohit"
 
 share:
   twitter_username: krullun
