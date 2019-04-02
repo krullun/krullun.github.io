@@ -6,6 +6,8 @@ categories: [lifestyle]
 tags: [cycling, adventure, arunachal pradesh, north east]
 image: cycling.jpg
 ---
+![Me](https://raw.githubusercontent.com/krullun/krullun.github.io/master/static/img/_posts/cycling.jpg  "Me")
+
 First cycling trip in the mountains.
 
 <!-- Parsing JSON with Ruby is actually extremely easy. All you have to do is have the json gem installed (`gem install json`) and call the `JSON.parse` method on the JSON data to convert it to ruby hashes. If you look at this small program here, you can see how I have implemented parsing JSON in Ruby.
